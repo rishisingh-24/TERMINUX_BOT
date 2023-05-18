@@ -27,4 +27,4 @@ You simply make a call to your chatbot's API and you will get a text response wi
 Retrofit is an awesome type-safe HTTP client for Android and Java built by awesome folks at Square. 
 Retrofit makes it easy to consume JSON or XML data which is parsed into Plain Old Java Objects (POJOs).
 
-Note : For using RetroFit API - Don’t forget to add INTERNET permissions in AndroidManifest.xml
+
