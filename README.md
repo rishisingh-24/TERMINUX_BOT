@@ -20,8 +20,6 @@ Imagine that Your application wants to access the data or functionality of anoth
 Maybe you are developing an application where you need quick information without having to go back or having to open another program. 
 You simply make a call to your chatbot's API and you will get a text response without having to stop what you're doing.
 
-*In this app. we use RetroFit API.* 
-Retrofit is an awesome type-safe HTTP client for Android and Java built by awesome folks at Square. 
-Retrofit makes it easy to consume JSON or XML data which is parsed into Plain Old Java Objects (POJOs).
+
 
 
